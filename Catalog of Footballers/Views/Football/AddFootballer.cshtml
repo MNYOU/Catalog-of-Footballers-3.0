@@ -1,0 +1,51 @@
+﻿@using Dal.Enums
+@using Dal.ViewModels
+@model Dal.ViewModels.FootballerViewModel
+
+@{
+    ViewBag.Title = "Добавить футболиста";
+    Layout = "_Layout";
+}
+
+<h2>Форма добавления футболиста</h2>
+<form asp-controller="Football" asp-action="AddFootballer" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName" class="text-field_label"></label>
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+        <input asp-for="FirstName" class="text-field_input">
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName" class="text-field_label"></label>
+        <span asp-validation-for="LastName" class="text-danger"></span>
+        <input asp-for="LastName" class="text-field_input">
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender" class="text-field_label"></label>
+        <span asp-validation-for="Gender" class="text-danger"></span>
+        <select asp-for="Gender" asp-items="@Html.GetEnumSelectList(typeof(Gender))" id="cat">
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Birthday" class="text-field_label"></label>
+        <span asp-validation-for="Birthday" class="text-danger"></span>
+        <input asp-for="Birthday" class="text-field_input" value="2020-12-02">
+    </div>
+    <div class="form-group">
+        <label asp-for="Team.Name" class="text-field_label"></label>
+        <span asp-validation-for="Team.Name" class="text-danger"></span>
+        <input asp-for="Team.Name" class="text-field_input" list="teams"/>
+        <datalist id="teams">
+            @foreach (var team in (IEnumerable<TeamViewModel>)(ViewBag.Teams ?? Array.Empty<TeamViewModel>()))
+            {
+                <option value="@team.Name"></option>
+            }
+        </datalist>
+    </div>
+    <div class="form-group">
+        <label asp-for="Country" class="text-field_label"></label>
+        <span asp-validation-for="Country" class="text-danger"></span>
+        <select asp-for="Country" asp-items="@Html.GetEnumSelectList(typeof(Country))">
+        </select>
+    </div>
+    <input class="btn" type="submit" value="Отправить">
+</form>

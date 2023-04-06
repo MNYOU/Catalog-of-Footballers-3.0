@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Catalog_of_Footballers
+build_property.RootNamespace = Catalog_of_Footballers
+build_property.ProjectDir = C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Football/AddFootballer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGJhbGxcQWRkRm9vdGJhbGxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Football/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGJhbGxcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Football/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGJhbGxcU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Football/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGJhbGxcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Арман/Documents/Programs/C\#/Catalog of Footballers/Catalog of Footballers/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-53yqn20cr2

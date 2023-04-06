@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{6E3B9DEA-3635-41B5-B923-048F5C6533F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{9F564478-B265-4DF9-98A5-CF91F0F4D501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog of Footballers", "Catalog of Footballers\Catalog of Footballers.csproj", "{961B8C32-729F-4BFC-AF0A-65C0623814F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3B9DEA-3635-41B5-B923-048F5C6533F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3B9DEA-3635-41B5-B923-048F5C6533F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3B9DEA-3635-41B5-B923-048F5C6533F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3B9DEA-3635-41B5-B923-048F5C6533F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F564478-B265-4DF9-98A5-CF91F0F4D501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F564478-B265-4DF9-98A5-CF91F0F4D501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F564478-B265-4DF9-98A5-CF91F0F4D501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F564478-B265-4DF9-98A5-CF91F0F4D501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961B8C32-729F-4BFC-AF0A-65C0623814F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961B8C32-729F-4BFC-AF0A-65C0623814F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961B8C32-729F-4BFC-AF0A-65C0623814F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961B8C32-729F-4BFC-AF0A-65C0623814F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

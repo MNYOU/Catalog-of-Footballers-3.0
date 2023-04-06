@@ -1,0 +1,52 @@
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\appsettings.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Catalog of Footballers.staticwebassets.runtime.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Catalog of Footballers.exe
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Catalog of Footballers.deps.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Catalog of Footballers.runtimeconfig.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Catalog of Footballers.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Catalog of Footballers.pdb
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Dal.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Logic.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Logic.pdb
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\Dal.pdb
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.csproj.AssemblyReference.cache
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.AssemblyInfoInputs.cache
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.AssemblyInfo.cs
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.csproj.CoreCompileInputs.cache
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.RazorAssemblyInfo.cache
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.RazorAssemblyInfo.cs
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets\msbuild.Catalog of Footballers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets\msbuild.build.Catalog of Footballers.props
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Catalog of Footballers.props
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Catalog of Footballers.props
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\scopedcss\bundle\Catalog of Footballers.styles.css
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\scopedcss\projectbundle\Catalog of Footballers.bundle.scp.css
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.csproj.CopyComplete
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\refint\Catalog of Footballers.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.pdb
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\Catalog of Footballers.genruntimeconfig.cache
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\obj\Debug\net7.0\ref\Catalog of Footballers.dll
+C:\Users\Арман\Documents\Programs\C#\Catalog of Footballers\Catalog of Footballers\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
